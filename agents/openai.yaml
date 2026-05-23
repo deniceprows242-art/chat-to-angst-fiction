@@ -1,0 +1,4 @@
+interface:
+  display_name: "聊天虐文改写"
+  short_description: "聊天记录转克制中文虐文；每个叙事判断都要有记录依据"
+  default_prompt: "Use $chat-to-angst-fiction to turn these chat logs into a restrained Chinese angst story. Protect privacy and make every emotional claim traceable to a timestamped message or observable pattern."
