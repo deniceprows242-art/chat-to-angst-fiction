@@ -31,13 +31,13 @@
 Clone this repository into your skills directory:
 
 ```powershell
-git clone https://github.com/<your-name>/chat-to-angst-fiction.git "$env:USERPROFILE\.codex\skills\chat-to-angst-fiction"
+git clone https://github.com/deniceprows242-art/chat-to-angst-fiction.git "$env:USERPROFILE\.codex\skills\chat-to-angst-fiction"
 ```
 
 For Claude-style skills, clone it into:
 
 ```powershell
-git clone https://github.com/<your-name>/chat-to-angst-fiction.git "$env:USERPROFILE\.claude\skills\chat-to-angst-fiction"
+git clone https://github.com/deniceprows242-art/chat-to-angst-fiction.git "$env:USERPROFILE\.claude\skills\chat-to-angst-fiction"
 ```
 
 ## Example Prompt
