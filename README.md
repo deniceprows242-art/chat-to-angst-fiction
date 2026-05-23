@@ -40,6 +40,12 @@ For Claude-style skills, clone it into:
 git clone https://github.com/deniceprows242-art/chat-to-angst-fiction.git "$env:USERPROFILE\.claude\skills\chat-to-angst-fiction"
 ```
 
+Install the optional DOCX dependency if you want to export Markdown drafts to Word:
+
+```powershell
+pip install -r requirements.txt
+```
+
 ## Example Prompt
 
 ```text
