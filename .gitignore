@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.docx
+*.pdf
+*.log
+*.tmp
+
+# Keep private chat data out of public repos.
+*.json
+*.csv
+*.xlsx
+*.zip
+screenshots/
+exports/
+private/
+evidence-mapping.md
